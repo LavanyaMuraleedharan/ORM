@@ -27,8 +27,7 @@ Execute Django admin and create 10 Football players
 Include your code here
 
 ## OUTPUT
-
-Include the screenshot of your admin page.
+![output](<Screenshot 2023-11-04 095336.png>)
 
 
 ## RESULT
